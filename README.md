@@ -15,7 +15,7 @@ This repository contains my notes and code samples for learning C++ programming 
 To get started with this repository, you can clone the repository to your local machine using the following command:
 
 ```bash
-$ git clone https://github.com/your-username/cplusplus-learning-notes.git
+$ git clone https://github.com/Sakasu-TUAT/cplusplus-learning-notes.git
 ```
 
 
